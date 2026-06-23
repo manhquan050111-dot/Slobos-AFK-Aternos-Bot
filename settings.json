@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " caidaibo.aternos.me:52028",
+    "ip": "caidaibo.aternos.me:52028",
     "port": 52028,
     "version": "1.21.10",
     "try-creative": false
